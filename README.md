@@ -1,6 +1,6 @@
 # Adress autocomplete-input
 
-City auto-completion
+City auto-complete form
 
 Use : 
   - French Gouv api city 
